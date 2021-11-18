@@ -1,6 +1,6 @@
 from loader import dp
 from aiogram.types import CallbackQuery
-from keybourds.inline.sub_auth_for_10 import *
+from keybourds.inline.all_for_10 import *
 
 
 @dp.callback_query_handler(text='algebra_for_10')
